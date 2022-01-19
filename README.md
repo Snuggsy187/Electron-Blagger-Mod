@@ -11,7 +11,7 @@ Space to Start,
 Z - Left, X - Right, 
 Shift - Jump
 
-[Download Disk Image version 1.5 !](https://github.com/Snuggsy187/Electron-Blagger-Mod/raw/main/Releases/Blagger-E-v1.5.ssd)
+[Download Disk Image version 1.7 !](https://github.com/Snuggsy187/Electron-Blagger-Mod/raw/main/Releases/Blagger-E-v1.7.ssd)
 
 [Download Tape Image version 1.5 !](https://github.com/Snuggsy187/Electron-Blagger-Mod/raw/main/Releases/Blagger-E-v1.5.uef)
 
