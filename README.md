@@ -4,8 +4,6 @@ Blagger Mod for the Acorn Electron
 
 Streamlined original code to offer improved speed performance. Other modifications, like removing the 'stand on plant/rotating spike' feature
 
-Work in progress - no sound in this version.
-
 KEYS:
 Space to Start, 
 Z - Left, X - Right, 
