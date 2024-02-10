@@ -7,12 +7,12 @@ Streamlined original code to offer improved speed performance. Other modificatio
 KEYS:
 Space to Start, 
 Z - Left, X - Right, 
-Shift - Jump
+Shift or Return - Jump
 
-[Download Disk Image version 1.9 !](https://github.com/Snuggsy187/Electron-Blagger-Mod/raw/main/Releases/Blagger-E-v1.9.ssd)
+[Download Disk Image version 2.0 !](https://github.com/Snuggsy187/Electron-Blagger-Mod/raw/main/Releases/Blagger-E-v2.0.ssd)
 
-[Download Tape Image version 1.5 !](https://github.com/Snuggsy187/Electron-Blagger-Mod/raw/main/Releases/Blagger-E-v1.5.uef)
-Will attempt to update the tape version soon.....
+[Download Tape Image version 2.0 !](https://github.com/Snuggsy187/Electron-Blagger-Mod/raw/main/Releases/Blagger-E-v2.0.uef)
+Use *RUN to load from tape image
 
 If you feel like supporting my endeavours, please donate:
 
